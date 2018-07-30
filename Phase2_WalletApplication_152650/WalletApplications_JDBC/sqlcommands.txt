@@ -1,9 +1,11 @@
 CREATE TABLE CUSTOMER_WALLET
 (
-   
-
-
-
+   Mobile_no varchar2(10),
+   Email_ID  varchar2(30),
+   Customer_Name varchar2(30),
+   Customer_Password varchar2(20),
+   Balance number(19,2),
+    PRIMARY KEY (Mobile_no)
 );
 
 
