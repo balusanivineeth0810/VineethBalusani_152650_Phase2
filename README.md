@@ -1,1 +1,2 @@
 # WalletApplicationPhase2_152650
+Phase2_WalletApplication_152650/WalletApplications_JDBC is implemented using JDBC
